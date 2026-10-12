@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Notion__notion-fetch",
+      "mcp__Notion__notion-duplicate-page",
+      "mcp__Notion__notion-get-async-task",
+      "mcp__Notion__notion-query-data-sources",
+      "mcp__Notion__notion-update-data-source",
+      "mcp__Notion__notion-move-pages"
+    ]
+  }
+}
